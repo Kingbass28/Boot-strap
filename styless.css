@@ -1,0 +1,21 @@
+* {
+    background-color: cornsilk;
+}
+
+p {
+    font-size: 25px; 
+    color: firebrick;
+
+}
+
+div {
+    background-color: cornsilk;
+    border: solid black;
+    padding: 20px;
+    margin: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: firebrick;
+}

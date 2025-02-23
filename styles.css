@@ -1,0 +1,21 @@
+* {
+    background-color: tomato;
+}
+div{
+    background-color: tomato;
+    border-color: yellow;;
+    border-style: dashed;
+    padding: 25px;
+    margin: 25px;
+}
+
+h1 {
+    text-align: center;
+    color: forestgreen;
+    font-size: 40px;
+}
+
+div p {
+    color: forestgreen;
+    font-size: 25px;
+}
